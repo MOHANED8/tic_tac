@@ -1,19 +1,50 @@
-# Tic-Tac-Toe Game
+# 🎮 Tic-Tac-Toe Game
 
-This is a simple Tic-Tac-Toe game built using Flutter. It supports both single-player and two-player modes. 
+Welcome to the **Tic-Tac-Toe Game** built using **Flutter**! This fun and simple game allows you to play either in single-player mode against the computer or in two-player mode with a friend. Enjoy the classic Tic-Tac-Toe experience with a modern, sleek design! 💻📱
 
-## Features
+![Tic-Tac-Toe Banner](screenshots/banner.png)
 
-- Play against another player or let the computer auto-play for you.
-- User-friendly interface with a grid layout.
-- Keeps track of the current turn and shows the winner or if it's a draw.
-- Switch between single-player and two-player modes.
-- Reset the game to play again.
+## ✨ Features
 
-## How to Play
+- 🔄 **Single-player or two-player**: Choose to play with a friend or let the computer auto-play.
+- 🎯 **Intuitive gameplay**: Tap on the squares to make your move.
+- 🏆 **Winner announcement**: Displays the winner or a draw at the end of the game.
+- 🔄 **Reset anytime**: Easily restart the game by pressing the "Repeat the game" button.
+- 📱 **Responsive design**: Supports both portrait and landscape modes seamlessly.
 
-1. The game starts with Player X.
-2. Players take turns tapping on one of the 9 squares on the grid.
-3. If a player manages to align 3 symbols (either X or O) in a row, column, or diagonal, they win.
-4. The game will notify you if it’s a draw or if someone wins.
-5. You can reset the game at any time by pressing the "Repeat the game" button.
+## 🎮 How to Play
+
+1. **Player X** always starts the game.
+2. Players take turns tapping on a square to place their symbol (X or O).
+3. The goal is to get 3 of your symbols in a row, column, or diagonal.
+4. The game will notify you when there is a winner or if it’s a draw.
+5. Use the reset button to start a new round.
+
+## 📱 Screenshots
+
+| Portrait Mode                             | Landscape Mode                            |
+| ------------------------------------------| ------------------------------------------|
+| ![Portrait](screenshots/portrait.png)     | ![Landscape](screenshots/landscape.png)   |
+
+## 🚀 Quick Start
+
+To run this project locally, follow these steps:
+
+### 1️⃣ Prerequisites
+- **Flutter SDK** installed on your machine. [Get Flutter here](https://flutter.dev/docs/get-started/install)
+- IDE like **Visual Studio Code** or **Android Studio** with Flutter support
+
+### 2️⃣ Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/tic_tac_toe_flutter.git
+
+# Navigate to the project directory
+cd tic_tac_toe_flutter
+
+# Install the dependencies
+flutter pub get
+
+# Run the app
+flutter run
