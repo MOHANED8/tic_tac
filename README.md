@@ -22,9 +22,6 @@ Welcome to the **Tic-Tac-Toe Game** built using **Flutter**! This fun and simple
 
 ## 📱 Screenshots
 
-| Portrait Mode                             | Landscape Mode                            |
-| ------------------------------------------| ------------------------------------------|
-| ![Portrait](screenshots/portrait.png)     | ![Landscape](screenshots/landscape.png)   |
 
 ## 🚀 Quick Start
 
