@@ -2,7 +2,7 @@
 
 Welcome to the **Tic-Tac-Toe Game** built using **Flutter**! This fun and simple game allows you to play either in single-player mode against the computer or in two-player mode with a friend. Enjoy the classic Tic-Tac-Toe experience with a modern, sleek design! 💻📱
 
-![Tic-Tac-Toe Banner](screenshots/banner.png)
+![Tic-Tac-Toe Banner](https://github.com/user-attachments/assets/56e340d8-e58d-4e5e-ba8c-da1136db8d33)
 
 ## ✨ Features
 
@@ -21,14 +21,17 @@ Welcome to the **Tic-Tac-Toe Game** built using **Flutter**! This fun and simple
 5. Use the reset button to start a new round.
 
 ## 📱 Screenshots
-[Project Image](https://github.com/user-attachments/assets/56e340d8-e58d-4e5e-ba8c-da1136db8d33)
 
+Here’s a preview of the game in action:
+
+![Screenshot](https://github.com/user-attachments/assets/56e340d8-e58d-4e5e-ba8c-da1136db8d33)
 
 ## 🚀 Quick Start
 
 To run this project locally, follow these steps:
 
 ### 1️⃣ Prerequisites
+
 - **Flutter SDK** installed on your machine. [Get Flutter here](https://flutter.dev/docs/get-started/install)
 - IDE like **Visual Studio Code** or **Android Studio** with Flutter support
 
