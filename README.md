@@ -2,7 +2,7 @@
 
 Welcome to the **Tic-Tac-Toe Game** built using **Flutter**! This fun and simple game allows you to play either in single-player mode against the computer or in two-player mode with a friend. Enjoy the classic Tic-Tac-Toe experience with a modern, sleek design! 💻📱
 
-![Tic-Tac-Toe Banner](https://github.com/user-attachments/assets/56e340d8-e58d-4e5e-ba8c-da1136db8d33)
+![Tic-Tac-Toe Banner](https://github.com/user-attachments/assets/56e340d8-e58d-4e5e-ba8c-da1136db8d33](https://github.com/user-attachments/assets/8d00c0c2-68c2-4f7a-849e-d27561c8e0ee)
 
 ## ✨ Features
 
