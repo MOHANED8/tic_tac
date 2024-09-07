@@ -24,4 +24,10 @@ Welcome to the **Tic-Tac-Toe Game** built using **Flutter**! This fun and simple
 
 Here’s a preview of the game in action:
 
-![Screenshot](https://github.com/user-attachments/assets/56e340d8-e58d-4e5e-ba8c-da1136db8d33](https://github.com/user-attachments/assets/d9a4f3b8-4ec3-4a70-9be6-1de28b587e9a)
+![Screenshot](https://github.com/user-attachments/assets/56e340d8-e58d-4e5e-ba8c-da1136db8d33)
+
+## 🎥 Demo Video
+
+Watch the game in action:
+
+[![Demo Video](https://img.youtube.com/vi/d9a4f3b8-4ec3-4a70-9be6-1de28b587e9a/0.jpg)](https://github.com/user-attachments/assets/d9a4f3b8-4ec3-4a70-9be6-1de28b587e9a)
