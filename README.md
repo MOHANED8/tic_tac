@@ -20,12 +20,6 @@ Welcome to the **Tic-Tac-Toe Game** built using **Flutter**! This fun and simple
 4. The game will notify you when there is a winner or if it’s a draw.
 5. Use the reset button to start a new round.
 
-## 📱 Screenshots
-
-Here’s a preview of the game in action:
-
-![Screenshot](https://github.com/user-attachments/assets/56e340d8-e58d-4e5e-ba8c-da1136db8d33)
-
 ## 🎥 Demo Video
 
 Watch the game in action:
